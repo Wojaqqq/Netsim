@@ -1,2 +1,2 @@
 # Network Simulation
-Finalny projekt z Informatyki 2.
+Finalny projekt z przedmiotu: Informatyka 2.
