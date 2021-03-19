@@ -1,2 +1,3 @@
 # Network Simulation
-Finalny projekt z przedmiotu: Informatyka 2.
+
+Zaprojektowany system służący do modelowania i symulacji działania sieci – na przykładzie “linii produkcyjnych” w fabryce.
